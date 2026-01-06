@@ -93,7 +93,7 @@ veefyed-backend-task/
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Nyamekesse/veefyed-backend-task.git
    cd veefyed-backend-task
    ```
 
