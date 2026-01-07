@@ -300,9 +300,12 @@ _Health check result_
 
 #### Error Handling
 
+![Error Response](screenshots/no-api-key.png)
+_Example error response for failed authentication (no API key)_
 ![Error Response](screenshots/invalid-request.png)
-![Error Response](screenshots/not-found-image.png)
 _Example error response for invalid request_
+![Error Response](screenshots/not-found-image.png)
+_Example error response for not found image id_
 
 ---
 
