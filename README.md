@@ -12,6 +12,7 @@ A FastAPI-based backend service for image upload and analysis, built for the Mob
 - [Running the Application](#running-the-application)
 - [API Documentation](#api-documentation)
 - [Testing the API](#testing-the-api)
+- [API Screenshots](#api-screenshots)
 - [Docker Deployment](#docker-deployment)
 - [Design Decisions](#design-decisions)
 - [Production Improvements](#production-improvements)
