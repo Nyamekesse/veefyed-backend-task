@@ -278,6 +278,33 @@ response = requests.post(
 print(response.json())
 ```
 
+## API Screenshots
+
+Below are examples of the API endpoints in action:
+
+#### Upload Endpoint
+
+![Upload Success](screenshots/upload-success.png)
+_Successful image upload with generated image_id_
+
+#### Analysis Endpoint
+
+![Analysis Result](screenshots/analysis-result.png)
+_Mock analysis results showing skin type and issues_
+
+#### Health Check Endpoint
+
+![Health Check Result](screenshots/health-check.png)
+_Health check result_
+
+#### Error Handling
+
+![Error Response](screenshots/invalid-request.png)
+![Error Response](screenshots/not-found-image.png)
+_Example error response for invalid request_
+
+---
+
 ## Docker Deployment
 
 ### Build the Docker image
